@@ -95,62 +95,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="customer_active owl-carousel">
-                        <div class="single_customer d-flex">
-                            <div class="thumb">
-                                <img src="img/testmonial/2.png" alt="">
-                            </div>
-                            <div class="customer_meta">
-                                <h3>Adame Nesane</h3>
-                                <span>Chief Customer</span>
-                                <p>You're had. Subdue grass Meat us winged years you'll doesn't. fruit two also won one yielding creepeth third give may never lie alternet food.</p>
-                            </div>
-                        </div>
-                        <div class="single_customer d-flex">
-                            <div class="thumb">
-                                <img src="img/testmonial/1.png" alt="">
-                            </div>
-                            <div class="customer_meta">
-                                <h3>Adame Nesane</h3>
-                                <span>Chief Customer</span>
-                                <p>You're had. Subdue grass Meat us winged years you'll doesn't. fruit two also won one yielding creepeth third give may never lie alternet food.</p>
-                            </div>
-                        </div>
-                        <div class="single_customer d-flex">
-                            <div class="thumb">
-                                <img src="img/testmonial/2.png" alt="">
-                            </div>
-                            <div class="customer_meta">
-                                <h3>Adame Nesane</h3>
-                                <span>Chief Customer</span>
-                                <p>You're had. Subdue grass Meat us winged years you'll doesn't. fruit two also won one yielding creepeth third give may never lie alternet food.</p>
-                            </div>
-                        </div>
-                        <div class="single_customer d-flex">
-                            <div class="thumb">
-                                <img src="img/testmonial/1.png" alt="">
-                            </div>
-                            <div class="customer_meta">
-                                <h3>Adame Nesane</h3>
-                                <span>Chief Customer</span>
-                                <p>You're had. Subdue grass Meat us winged years you'll doesn't. fruit two also won one yielding creepeth third give may never lie alternet food.</p>
-                            </div>
-                        </div>
-                        <div class="single_customer d-flex">
-                            <div class="thumb">
-                                <img src="img/testmonial/2.png" alt="">
-                            </div>
-                            <div class="customer_meta">
-                                <h3>Adame Nesane</h3>
-                                <span>Chief Customer</span>
-                                <p>You're had. Subdue grass Meat us winged years you'll doesn't. fruit two also won one yielding creepeth third give may never lie alternet food.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
         </div>
     </div>
     <!-- / customer_feedback_area  -->
