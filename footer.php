@@ -1,81 +1,7 @@
 
     <!-- footer  -->
     <footer class="footer">
-            <div class="footer_top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-2 col-md-6 col-lg-2">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Top Products
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Managed Website</a></li>
-                                    <li><a href="#"> Manage Reputation</a></li>
-                                    <li><a href="#">Power Tools</a></li>
-                                    <li><a href="#">Marketing Service</a></li>
-                                </ul>
-    
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-md-6 col-lg-2">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Quick Links
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Jobs</a></li>
-                                    <li><a href="#">Brand Assets</a></li>
-                                    <li><a href="#">Investor Relations</a></li>
-                                    <li><a href="#">Terms of Service</a></li>
-                                </ul>
-    
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-md-6 col-lg-2">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Features
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Jobs</a></li>
-                                    <li><a href="#">Brand Assets</a></li>
-                                    <li><a href="#">Investor Relations</a></li>
-                                    <li><a href="#">Terms of Service</a></li>
-                                </ul>
-    
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-md-6 col-lg-2">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Resources
-                                </h3>
-                                <ul>
-                                    <li><a href="#">Guides</a></li>
-                                    <li><a href="#">Research</a></li>
-                                    <li><a href="#">Experts</a></li>
-                                    <li><a href="#">Agencies</a></li>
-                                </ul>
-    
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6 col-lg-4">
-                                <div class="footer_widget">
-                                        <h3 class="footer_title">
-                                                Subscribe
-                                        </h3>
-                                        <p class="newsletter_text">You can trust us. we only send promo offers,</p>
-                                        <form action="#" class="newsletter_form">
-                                            <input type="text" placeholder="Enter your mail">
-                                            <button type="submit"> <i class="ti-arrow-right"></i> </button>
-                                        </form>
-                                        
-                                    </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
             <div class="copy-right_text">
                 <div class="container">
                     <div class="footer_border"></div>
@@ -84,7 +10,7 @@
                             <p class="copy_right">
                                 
 Copyright &copy; Miraj Wasif Rahat Shamim Nazir
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
                             </p>
                         </div>
                         <div class="col-xl-4 col-md-4">
