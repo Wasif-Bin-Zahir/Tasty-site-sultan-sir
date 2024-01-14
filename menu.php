@@ -15,25 +15,10 @@
                             <div class="main-menu   d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.php">Home</a></li>
-                                        <li><a href="about.php">About Us</a></li>
-                                        <li><a href="Recipes.php">Recipes</a></li>
-                                        <!-- <li><a href="#">Receipe Article<i class="ti-angle-down"></i></a>
-                                            <ul class="submenu">
-                                                <li><a href="blog.html">blog</a></li>
-                                                <li><a href="single-blog.html">single-blog</a></li>
-                                            </ul>
-                                        </li> -->
-                                        
-                                        <!-- <li>
-                                            <a href="#">pages <i class="ti-angle-down"></i></a>
-                                            <ul class="submenu">
-                                                <li><a href="recipes_details.html">Recipes Details</a></li>
-                                             <li><a href="elements.html">elements</a></li> 
-                                            </ul>
-                                        </li> -->
-
-                                        <li><a href="contact.php">Contact Us</a></li>
+                                        <li><a class="nn" href="index.php">Home</a></li>
+                                        <li><a class="nn" href="about.php">About Us</a></li>
+                                        <li><a class="nn" href="Recipes.php">Recipes</a></li>
+                                        <li><a class="nn" href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </nav>
                             </div>

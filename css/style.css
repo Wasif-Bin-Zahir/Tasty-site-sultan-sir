@@ -28,6 +28,8 @@ body {
   font-style: normal;
 }
 
+
+
 /* line 12, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/theme-default.scss */
 .img {
   max-width: 100%;
@@ -2379,12 +2381,18 @@ h3 {
   background-repeat: no-repeat;
   background-size: cover;
   background: #000000;
+  text-align: center;
+}
+
+.nn{
+  font-weight: bold;
+  color: gray;
 }
 
 /* line 7, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_footer.scss */
 .footer .pro_border {
   padding-top: 103px;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
   border-bottom: 1px solid #334A60;
 }
 

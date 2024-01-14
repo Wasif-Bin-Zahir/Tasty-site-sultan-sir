@@ -39,7 +39,7 @@
                         <h3>Khicuri</h3>
                         <span>Main Course</span>
                         <p>Time Needs: 30 Mins</p>
-                        <a href="#" class="line_btn">View Full Recipe</a>
+                        <a href="https://www.youtube.com/watch?v=R4B37Q5lhfw" target="_blank" class="line_btn">View Full Recipe</a>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
@@ -50,7 +50,7 @@
                         <h3>Aloo Parata</h3>
                         <span>Main Meal</span>
                         <p>Time Needs: 30 Mins</p>
-                        <a href="#" class="line_btn">View Full Recipe</a>
+                        <a href="https://www.youtube.com/watch?v=A6f7ss_14F8" target="_blank" class="line_btn">View Full Recipe</a>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
@@ -61,7 +61,7 @@
                         <h3>Beef Kala Bhuna</h3>
                         <span>Side Dish</span>
                         <p>Time Needs: 30 Mins</p>
-                        <a href="#" class="line_btn">View Full Recipe</a>
+                        <a href="https://www.youtube.com/watch?v=2CR57l937s0" target="_blank" class="line_btn">View Full Recipe</a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@
                     <div class="trand_info text-center">
                         <p>Thousands of recipes are waiting to be watched</p>
                         <h3>Discover latest trending recipes</h3>
-                        <a href="#" class="boxed-btn3">View all Recipes</a>
+                        <a href="http://localhost:3000/Recipes.php" class="boxed-btn3">View all Recipes</a>
                     </div>
                 </div>
             </div>
@@ -149,7 +149,7 @@
                 <div class="col-xl-9">
                     <div class="section_title text-center">
                         <h3>Feedback From Customers</h3>
-                        <p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially <br> in the workplace. That’s why it’s crucial that, as women.</p>
+                        <p>Feel free to customize this template based on the specific details of your feedback. Providing both positive aspects and areas for improvement helps create a well-rounded and constructive message.</p>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 
     <!-- footer  -->
-    <footer class="footer">
+    <footer class="footer" >
             
             <div class="copy-right_text">
                 <div class="container">

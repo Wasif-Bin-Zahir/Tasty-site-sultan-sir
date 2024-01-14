@@ -36,69 +36,53 @@
     </div>
     <!--/ recepie_header_area  -->
 
-    <!-- recepie_videos   -->
-    <div class="recepie_videoes_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="recepie_info">
-                        <h3>Recipe videos 
-                            that never misses 
-                            any portion</h3>
-                    <p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women.</p>
-                   
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="videos_thumb">
-                        <div class="big_img">
-                            <img src="img/video/big.png" alt="">
-                        </div>
-                        <div class="small_thumb">
-                            <img src="img/video/small_1.png" alt="">
-                        </div>
-                        <div class="small_thumb_2">
-                            <img src="img/video/2.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+    <div>
+
+    <div style="text-align:center">
+        <img style="width:10%;border-radius:50%;" src="./img/testmonial/sultansir.png" alt="">
+        <h3 style="font-family:san-sarif">Mohd. Sultan Ahammad</h3>
+        <h5 style="font-family:san-sarif">Assistant Professor , CSE , MBSTU</h5>
+        <p style="padding:10px 500px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minus, sint porro voluptatibus cumque iste vitae ullam. Fugit repellat vel vitae dolorum perferendis accusantium temporibus? Delectus, placeat ipsum. Nulla, eveniet.</p>
     </div>
-    <!--/ recepie_videos   -->
+    <div style="text-align:center">
+        <img style="width:10%;border-radius:50%;" src="./img/testmonial/wasif.png" alt="">
+        <h3 style="font-family:san-sarif">Wasif Bin Zahir</h3>
+        <h5 style="font-family:san-sarif">Student , CSE , MBSTU</h5>
+        <p style="padding:10px 500px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minus, sint porro voluptatibus cumque iste vitae ullam. Fugit repellat vel vitae dolorum perferendis accusantium temporibus? Delectus, placeat ipsum. Nulla, eveniet.</p>
+    </div>
+    <div style="text-align:center">
+        <img style="width:10%;border-radius:50%;" src="./img/testmonial/rahat.png" alt="">
+        <h3 style="font-family:san-sarif">Fazle Rabbi Rahat</h3>
+        <h5 style="font-family:san-sarif">Student , CSE , MBSTU</h5>
+        <p style="padding:10px 500px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minus, sint porro voluptatibus cumque iste vitae ullam. Fugit repellat vel vitae dolorum perferendis accusantium temporibus? Delectus, placeat ipsum. Nulla, eveniet.</p>
+    </div>
+    <div style="text-align:center">
+        <img style="width:10%;border-radius:50%;" src="./img/testmonial/miraj.png" alt="">
+        <h3 style="font-family:san-sarif">Nafiul Miraj</h3>
+        <h5 style="font-family:san-sarif">Student , CSE , MBSTU</h5>
+        <p style="padding:10px 500px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minus, sint porro voluptatibus cumque iste vitae ullam. Fugit repellat vel vitae dolorum perferendis accusantium temporibus? Delectus, placeat ipsum. Nulla, eveniet.</p>
+    </div>
+    <div style="text-align:center">
+        <img style="width:10%;border-radius:50%;" src="./img/testmonial/nazir.png" alt="">
+        <h3 style="font-family:san-sarif">Nazir Ahammed</h3>
+        <h5 style="font-family:san-sarif">Student , CSE , MBSTU</h5>
+        <p style="padding:10px 500px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minus, sint porro voluptatibus cumque iste vitae ullam. Fugit repellat vel vitae dolorum perferendis accusantium temporibus? Delectus, placeat ipsum. Nulla, eveniet.</p>
+    </div>
+    <div style="text-align:center">
+        <img style="width:10%;border-radius:50%;" src="./img/testmonial/shamim.png" alt="">
+        <h3 style="font-family:san-sarif">Shah Mim</h3>
+        <h5 style="font-family:san-sarif">Student , CSE , MBSTU</h5>
+        <p style="padding:10px 500px">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure minus, sint porro voluptatibus cumque iste vitae ullam. Fugit repellat vel vitae dolorum perferendis accusantium temporibus? Delectus, placeat ipsum. Nulla, eveniet.</p>
+    </div>
+    </div>
+
+  
 
    
-    <!-- latest_trand     -->
-    <div class="latest_trand_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="trand_info text-center">
-                        <p>Thousands of recipes are waiting to be watched</p>
-                        <h3>Discover latest trending recipes</h3>
-                        <a href="#" class="boxed-btn3">View all Recipes</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--/ latest_trand     -->
 
-    <!-- customer_feedback_area  -->
-    <div class="customer_feedback_area padding_plus">
-        <div class="container">
-            <div class="row justify-content-center mb-50">
-                <div class="col-xl-9">
-                    <div class="section_title text-center">
-                        <h3>Feedback From Customers</h3>
-                        <p>inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially <br> in the workplace. That’s why it’s crucial that, as women.</p>
-                    </div>
-                </div>
-            </div>
-           
-        </div>
-    </div>
-    <!-- / customer_feedback_area  -->
+
+   
 
     <?php include 'footer.php';?>
 
